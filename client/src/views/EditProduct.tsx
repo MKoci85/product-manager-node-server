@@ -58,7 +58,7 @@ export default function EditProduct() {
                 <label
                     className="text-gray-800"
                     htmlFor="availability"
-                >Disponibilidad:</label>
+                >Availability:</label>
                 <select 
                     id="availability"
                     className="mt-2 block w-full p-3 bg-gray-50"
