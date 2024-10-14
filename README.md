@@ -1,6 +1,7 @@
 # 🛒 **Product Manager - CS50 Final Project**
+#### Video Demo: https://www.youtube.com/watch?v=Uw21qAOa0SA
 
-## Overview
+#### Description:
 
 The **Product Manager** is a full-stack web application designed to manage product inventories efficiently. It allows users to perform **CRUD (Create, Read, Update, Delete)** operations on products, ensuring that businesses can keep track of their items with ease. Each product includes attributes such as **name**, **price**, and **availability**, providing key information needed to manage an inventory.
 
